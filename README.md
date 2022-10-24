@@ -7,8 +7,8 @@ Image (binary) classification
 
 ## Team member
 1. NIAOURI Dimitra,<br>
-2. 2. HIM Soklong,<br>
-3. 3. ROSHANFEKR Roham(Ghasem)
+2. HIM Soklong,<br>
+3. ROSHANFEKR Roham(Ghasem)
 
 ## Dataset 
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
